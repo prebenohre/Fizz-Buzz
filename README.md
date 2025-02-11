@@ -1,4 +1,4 @@
-# FizzBuzz Project - Part 3
+# FizzBuzz Project
 
 ## Functionality
 The program performs the following operations:
