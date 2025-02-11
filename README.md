@@ -1,12 +1,12 @@
-# FizzBuzz Project - Part 3
+# FizzBuzz Project
 
 ## Functionality
 The program performs the following operations:
 
 1. **Dynamic Rule Fetching**:
     - Fetches rules from external APIs at runtime:
-        - **Static Rules API**: Always returns rules for numbers divisible by 3 (`"Fizz"`) and 5 (`"Buzz"`).
-        - **Dynamic Rules API**: Returns a randomized set of two rules on each request (e.g., 4-Gizz, 7-Hizz).
+        - **Static Rules API**: Always returns rules for numbers divisible by 3 (`"Preben"`) and 5 (`"Øhre"`).
+        - **Dynamic Rules API**: Returns a randomized set of two rules on each request (e.g., 4-Random, 7-Word).
     - The chosen API source is determined by the `RuleApi` setting in `appsettings.json`.
 
 2. **Game Execution**:
