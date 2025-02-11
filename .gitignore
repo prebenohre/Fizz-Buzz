@@ -1,0 +1,74 @@
+# Build-resultater
+bin/
+obj/
+
+# Brukerspesifikke filer
+*.user
+*.suo
+*.vs/
+
+# OS-spesifikke filer
+.DS_Store
+Thumbs.db
+
+# Midlertidige filer
+*.log
+*.tmp
+*.temp
+
+# Debug-symboler
+*.pdb
+*.ilk
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Coverage og testrelaterte filer
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+*.csproj.user
+.vstest/
+*.testsettings
+*.runsettings
+
+# Rider-spesifikke filer
+.idea/
+*.sln.iml
+
+# Lokale konfigurasjoner og cacher
+.vscode/
+*.code-workspace
+*.dotsettings.user
+
+# ReSharper-filer
+_ReSharper*/
+*.DotSettings.user
+
+# Temporary eller auto-genererte filer
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code Coverage output
+coverage/
+lcov-report/
+
+# Workspaces og autosaves
+*.swp
+*.swo
+
+# Temporary git files
+*.orig
+
+# Kjørbart
+*.exe
+*.dll
+
+# Andre relevante oppføringer for .NET-prosjekter
+# Lokal SQLite-databasefiler
+*.db
+*.db-journal

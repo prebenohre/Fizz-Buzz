@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzProject", "FizzBuzzProject\FizzBuzzProject.csproj", "{0F907546-F8D6-45D8-80B5-1B2AAFFA5ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTests", "FizzBuzzTests\FizzBuzzTests.csproj", "{73A91C3C-EE61-4883-BC8A-9C07EF5AAC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F907546-F8D6-45D8-80B5-1B2AAFFA5ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F907546-F8D6-45D8-80B5-1B2AAFFA5ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F907546-F8D6-45D8-80B5-1B2AAFFA5ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F907546-F8D6-45D8-80B5-1B2AAFFA5ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A91C3C-EE61-4883-BC8A-9C07EF5AAC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A91C3C-EE61-4883-BC8A-9C07EF5AAC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A91C3C-EE61-4883-BC8A-9C07EF5AAC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A91C3C-EE61-4883-BC8A-9C07EF5AAC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
