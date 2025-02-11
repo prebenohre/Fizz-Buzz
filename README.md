@@ -5,7 +5,7 @@ This project is a unique take on the classic FizzBuzz game, where the rules are 
 
 Instead of hardcoded rules for numbers divisible by 3 and 5, this implementation allows the application to retrieve rules from an external API, which can return either static or dynamic rules. This enables rule changes without modifying the source code and makes it easy to extend the solution with new rules, alternative data sources, and different game modes.
 
-Watch a video demo of the project here: [https://fizz-buzz-api-frbddabua6ave7ct.norwayeast-01.azurewebsites.net/api/FizzBuzz/dynamic](https://drive.google.com/file/d/1MmgNuyZC3z0FM4EokCa5UIrX_hwc8RzG/view?usp=sharing)
+Watch a video demo of the project here: https://drive.google.com/file/d/1MmgNuyZC3z0FM4EokCa5UIrX_hwc8RzG/view?usp=sharing
   
 ---  
 
